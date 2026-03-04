@@ -1,7 +1,7 @@
 void main() {
   int a = 10;
   int b = 5;
-  String operator = "+"; // Change this to -, *, / to test
+  String operator = "+";
 
   switch (operator) {
     case "+":
